@@ -5,8 +5,8 @@ import java.net.URI;//destination
 import java.io.IOException;//possible network/file/IO error
 //gson=toolbox Json=dataFormat Object=Tools
 //             toolbox.languageTools
-import com.google.gson.JsonObject;//Json as Object
-import com.google.gson.JsonParser;//Parses Json text
+//import com.google.gson.JsonObject;//Json as Object
+//import com.google.gson.JsonParser;//Parses Json text
 
 public class WeatherApp {
 
